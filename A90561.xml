@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition for peace, directed both to the King and the Parliament, written by One, to bee subscribed by all, men and Christians, as it shall appear agreeable to mans reason, and Christs word; the fittest sword (without all controversie) to decide all the controversies of these times.</title>
+            <author>One.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90561</idno>
+            <idno type="STC">Wing P1746</idno>
+            <idno type="STC">Thomason E121_20</idno>
+            <idno type="STC">ESTC R20048</idno>
+            <idno type="EEBO-CITATION">99861212</idno>
+            <idno type="PROQUEST">99861212</idno>
+            <idno type="VID">113340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113340)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition for peace, directed both to the King and the Parliament, written by One, to bee subscribed by all, men and Christians, as it shall appear agreeable to mans reason, and Christs word; the fittest sword (without all controversie) to decide all the controversies of these times.</title>
+                  <author>One.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113340:1"/>
+            <pb facs="tcp:113340:1" rendition="simple:additions"/>
+            <p>A PETITION FOR PEACE, Directed both to the KING and the PARLIAMENT,</p>
+            <p>Written by One, to bee ſubſcribed by All, MEN and CHRISTIANS, as it ſhall appear agreeable to MANS Reaſon, and CHRISTS Word;</p>
+            <p>The fitteſt Sword (without all controverſie) to decide all the Controverſies of theſe times.</p>
+            <q>
+               <p>He that loveth life, and would faine ſee good dayes <hi>(againe)</hi> let him re<g ref="char:EOLhyphen"/>frain him tongue from evill, and his lips that they speak no guile.</p>
+               <p>Let him eſchew evill and doe good.</p>
+               <p>Let him ſeeke Peace and enſue it.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Coles.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113340:2"/>
+            <pb facs="tcp:113340:2"/>
+            <head>The firſt Rudiments of a Petition for Peace, moſt humbly beſeeching his Maieſty and his Parliament,</head>
+            <p>
+               <label>Article 1.</label>
+               <lb/>
+               <seg rend="decorInit">F</seg>Irſt, that the more undiſputed ſins of man a<g ref="char:EOLhyphen"/>gainſt God may be more ſharply puniſhed by their joint authority; eſpecially the more ſpreading and allowed ſins; particularly, thoſe of Swearing, Drunkenneſſe, and Whoring.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Becauſe if this ſharp axe be laid to the root of bitter<g ref="char:EOLhyphen"/>neſſe, the calamity that ſprings from ſuch ſins may fade in the bloſſome, before it grow to the bitterneſſe in the latter end, eſpecially the more common and connived at ſins: Becauſe as private faults bring perſonall miſeries, ſo in proportion of juſtice common crimes bring common ca<g ref="char:EOLhyphen"/>lamities: namely, thoſe of ſwearing, drinking, and who<g ref="char:EOLhyphen"/>ring; becauſe it was confidently foretold that the Empire of <hi>Germany,</hi> then as flouriſhing as ſecure, ſhould ſurely come to ruine, becauſe theſe ſins were publikely winkt at by the Magiſtrate, and committed by the People. <hi>Muſcul. tract. de iuramento post Pſal.</hi>
+            </p>
+            <p>
+               <label>Scripture.</label>
+               <lb/>
+For three tranſgreſſions of Damaſcus, and for foure, I will not turn away the puniſhment thereof, But &amp;c. the like ſins eight times repeated, as the cauſe of ſo many Na<g ref="char:EOLhyphen"/>tions ruine, <hi>Amos</hi> chap. 1, &amp; 2. eſpecially tranſgreſſions known and allowed, 1 <hi>Sam.</hi> 3.13. by name thoſe of ſwea<g ref="char:EOLhyphen"/>ring, drinking, and whoredome, of which God complai<g ref="char:EOLhyphen"/>neth, and for which the Land mourneth, <hi>Hoſea</hi> 4.2, 11.</p>
+            <p>
+               <pb facs="tcp:113340:3"/>
+               <label>Article 2.</label>
+               <lb/>
+2. That the more diſputed ſins of man againſt man may be more favourably interpreted, and mutually pardoned.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Becauſe in ſuch diſputable caſes there can be no hoped for end of Recrimination, and becauſe parties exaſperated are apt to miſ-judge, and aggravate injuries done towards themſelves: and becauſe when there is deniall of pardon, where there is ſome equality of Abetters, the blood of the innocent which may be ſpilt, is more worth then the blood of the ſuppoſed nocent, which they think muſt be ſpilt. And many times the Magiſtrates ſuppoſe that their quarrell is good, and that of right they ought to make war on others, and puniſh Delinquents, when as notwith<g ref="char:EOLhyphen"/>ſtanding the righteous God by that occaſion drawes them on into perill, that their ſins may be puniſhed by the men, in whom they did purpoſe to have puniſhed ſome grie<g ref="char:EOLhyphen"/>vous crime. <hi>Bulling. Decad.</hi> 2. <hi>ſerm.</hi> 9.</p>
+            <p>
+               <label>Scripture.</label>
+               <lb/>
+They know not what manner of Spirit they are of, that think the Spirit of Chriſt any other then the Spirit of meekneſſe, not a Spirit of fire, <hi>Matth.</hi> 11.29. Therefore Brethren, you that have the Spirit) if any be overtaken in a fault, ye which are ſpirituall deſtroy not, but reſtore ſuch in the Spirit of meekneſſe, conſidering thy ſelfe, leſt thou alſo be tempted, <hi>Gal.</hi> 6.1. By this mitigating way the peo<g ref="char:EOLhyphen"/>ple ſaved <hi>Ionathan,</hi> when the King judged him worthy of death: and thus the King pardoned <hi>Shimei,</hi> whom ſome juſtly thought not worthy to live, 1 <hi>Sam.</hi> 14.44, 45. 2 <hi>Sam.</hi> 19.21. on both hands the interceding of one party abates the rigour of the other. In like caſes let your moderation be known unto all men, <hi>Phil.</hi> 4.5.</p>
+            <p>
+               <pb facs="tcp:113340:3"/>
+               <label>Article 3.</label>
+               <lb/>
+3. That the City of London, with all the Suburbs, may take the Oaths of Allegeance and Supremacie, conclu<g ref="char:EOLhyphen"/>ding with a clauſe to behave themſelves with that quiet<g ref="char:EOLhyphen"/>neſſe, innocence, and reverence, which is due to his ſa<g ref="char:EOLhyphen"/>cred Majeſty.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Becauſe the unbridledneſſe of ſome of theſe is averred to be the unhappy cauſe of his Majeſties retiring, and therefore the gentle receiving this curbe may well be ho<g ref="char:EOLhyphen"/>ped the happy cauſe of his returning.</p>
+            <p>
+               <label>Scripture.</label>
+               <lb/>
+Such innocent and reverent behaviour is due, for the heart of <hi>David</hi> ſmote him, not for threatning violence, but for touching the Lords annointed; and <hi>Shimei</hi> is ſlain in the end for but railing againſt the flying King: And if we vilifie the King but in thought onely, we ſhall be ſure to anſwer for it, <hi>Eccleſ.</hi> 10.20.</p>
+            <p>
+               <label>Article 4.</label>
+               <lb/>
+4. That on the Parliaments part the King be again en<g ref="char:EOLhyphen"/>treated, and on his Majeſties part he would be perſwaded upon the premiſes, (and what with like reaſon may be re<g ref="char:EOLhyphen"/>quired) to joine again with his Parliament.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Becauſe his abſence and diſtance from it hath been the cauſe of much evill, and griefe, and delay, and therefore his preſence and anneering may be cauſe of much good, and joy, and diſpatch.</p>
+            <p>
+               <label>Scripture.</label>
+               <lb/>
+When the King was driven from his royall City upon a commotion, after a while his ſubjects deſired him to re<g ref="char:EOLhyphen"/>turne; and he readily conſented, when he knew by the ex<g ref="char:EOLhyphen"/>preſſions of their loyalty, that he was indeed King over them, 2 <hi>Sam.</hi> 19.11, 12, 23.</p>
+            <p>
+               <pb facs="tcp:113340:4"/>
+               <label>Article 5.</label>
+               <lb/>
+That all poſſible ſpeed may be uſed for the disbanding or leſſening the Forces of each ſide, or at leaſt that they be kept at good diſtance, and in the meane time with due diſcipline regulated.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Becauſe, if not leſſened, or ſoone disbanded, their main<g ref="char:EOLhyphen"/>taining will grow to a too exceſſive charge to the people whom it muſt light upon. And if not kept at diſtance, and regulated, their licentiouſneſſe may doe more harme then their force can remedy.</p>
+            <p>
+               <label>Scripture.</label>
+               <lb/>
+When <hi>Iudah</hi> and <hi>Iſrael</hi> kept two Armies on foot for ſeaven years together, they met but once to try it by the ſword, and then with ſuch moderate purſuance, that but three hundred ſeaventy two were ſlaine by <hi>Ioabs</hi> men, and but thirty two by <hi>Abners,</hi> yet even that called a very ſore Battell, 2 <hi>Sam.</hi> 2.16, 71.30, 31.</p>
+            <p>
+               <label>Article 6.</label>
+               <lb/>
+That the charges of maintaining both Armies may not be laid on the ſhoulder of onely one Party, but that it may fall, in ſome mercifull proportion, upon all the Abler ſort of the Land.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Though all will never be granted equally deep in the cauſe of raiſing this diviſion, yet all will equally ſhare in the benefit of ceaſing it; and becauſe, if either ſide feare too much oppreſſion, the taming them to take the burden may coſt more then will be recovered of them. And in the meane time, the meaner of the Kingdome will ſoone be pincht for want of employment in their manufacturall crafts, who wanting work, as ſoone as the abler want tra<g ref="char:EOLhyphen"/>ding, muſt needs want food as ſoone as they want work.</p>
+            <p>
+               <pb facs="tcp:113340:4"/>
+               <label>Scripture.</label>
+               <lb/>
+Beare yee one anothers burden: and ſo (you that ſtand upon law) fulfill the law of Chriſt, <hi>Gal.</hi> 6.2. (And in a caſe of a collection) I will not that ſome bee eaſed, and others burdened, but that there be an equallity, 2 <hi>Cor.</hi> 8.13.</p>
+            <p>
+               <label>Article 7.</label>
+               <lb/>
+That in matters (Doctrinall or Diſciplinall) touching the ſervice of God, (the maine ſource of all our diſtra<g ref="char:EOLhyphen"/>ctions) wee expect a deciſion from the more learned, and more unblemiſhed Worthies of the Clergy, the daily ſtudiers of the Goſpel of Chriſt, and not from Lay-men.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Becauſe they being verſed moſt in the word of God, have probably moſt knowledge; And wee goe not to a Judge for the end of our ſuit, by vertue of his knowledge onely, whereof others may have a like meaſure, but by ver<g ref="char:EOLhyphen"/>tue of his office and calling: and to their office and cal<g ref="char:EOLhyphen"/>ling it belongs to determine ſuch doubts; For,</p>
+            <p>
+               <label>Scripture.</label>
+               <lb/>
+The Prieſts lips ſhould preſerve knowledge, and they ſhould ſeek the law at his mouth, <hi>Mala.</hi> 2.7. And after much diſputing, in a caſe of Ceremonies, the Church of God expected a determining ſentence, from the Apoſtles and Elders, <hi>Acts</hi> 15.3.6. ☞ The Elders were not Lay-men, but Miniſters of the word, Feeders of the Church of God, <hi>Acts</hi> 20.28. Feeders of the flock of God, 1 <hi>Pet.</hi> 5.1, 2. and, The firſt fault of King <hi>Saul</hi> was but once ſtepping into the office of the Prieſt, for which hee was caſt out of the Kingdome, and (which more is) out of Gods favour, 1 <hi>Sam.</hi> 8.12, 13. as <hi>Vzziah</hi> for the ſame treſpaſſe ſmote with leproſie, 2 <hi>Chron.</hi> 26.19.</p>
+            <p>
+               <label>Article 8.</label>
+               <lb/>
+That the chuſing of theſe able and godly Divines may
+<pb facs="tcp:113340:5"/>be (according as heretofore) by the ſuffrage of all the Mi<g ref="char:EOLhyphen"/>niſters of the Land, they being left liable to exception (both of the Chooſers and Choſen) who ſhall be thought unmeet, for any notorious evill (of faith or life) not ſlanderouſly imputed, but ſolidly proved againſt them.</p>
+            <p>
+               <label>Reaſon.</label>
+               <lb/>
+Becauſe the Profeſſors onely of any (unvulgar) Art or Science, are fitteſt men to judge who are moſt eminent in that Art or Science: and becauſe the Burden of ſuch Injunctions (as ſhall be agreed on by the Elected, and authoriſed by the High Court of Parliament) being to fall chiefly upon the Clergy, will be borne by them leſſe grudgingly, when they have their priviledge to chooſe who ſhall lay it upon their ſhoulders.</p>
+            <p>
+               <label>Scripture</label>
+               <lb/>
+In this point is more rare; becauſe not ſo much quar<g ref="char:EOLhyphen"/>relling there about Ceremonies, and the manner of Gods Service: And when they who God appointed were-taxt for uſurping too much upon the Holy People, God ſtaied not till an Aſſembly were choſen by others, but appointed them to meet next morning, and decided the queſtion Himſelfe, by making the earth to ſwallow them that in<g ref="char:EOLhyphen"/>vaded Prieſthood, <hi>Numb.</hi> 16. And <hi>David</hi> is carefull be<g ref="char:EOLhyphen"/>fore hand to prevent this doubt, that none ought to med<g ref="char:EOLhyphen"/>dle with the Holy utenſils, but the Levites, 1 <hi>Chron.</hi> 15.2. <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Article 9.</label>
+               <lb/>
+That there be not given to the Petitioners for peace too juſt</p>
+            <p>
+               <label>Reaſon</label>
+               <lb/>
+For them to uſe and apply this too oppoſite</p>
+            <p>
+               <label>Scripture,</label>
+               <lb/>
+My ſoule hath long dwelt among them that are enemies to peace. I laboured for peace, but when I ſpake to them thereof, they made them more then ready to battell.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113340:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
